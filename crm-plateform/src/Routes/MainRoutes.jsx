@@ -10,9 +10,7 @@ const MainRoutes = () => {
     <div>
       <Routes>
         <Route path="/" element={<Home />} />
-
         <Route path="/salesform" element={<SalesForm />} />
-
         <Route path="/login" element={<Login />} />
         <Route path="/admin" element={<Admin />} />
         <Route path="*" element={<NotFound />} />
