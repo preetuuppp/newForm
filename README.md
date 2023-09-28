@@ -15,6 +15,11 @@
 3- Library used Chakra Ui
 4- React icons
 
+# Admin Login and PassWord
+
+email- admin@gmail.com
+password- admin123
+
 # Client Side
 ![ss1](https://github.com/preetuuppp/newForm/assets/112836053/d239489b-e61c-46a2-b0f4-87ae29b28437)
 
