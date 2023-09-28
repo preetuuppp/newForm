@@ -1,0 +1,32 @@
+{
+  "userDetails": [
+    {
+      "name": "aman",
+      "mobile": "9598125554",
+      "email": "me@gmail.com",
+      "service": "portfolio website",
+      "id": 2
+    },
+    {
+      "name": "sswdwdw",
+      "mobile": "9598125005",
+      "email": "amankumar@gmail.com",
+      "service": "App Development",
+      "id": 4
+    },
+    {
+      "name": "vicky",
+      "mobile": "8989898989",
+      "email": "me@gmail.com",
+      "service": "Portfolio",
+      "id": 5
+    },
+    {
+      "name": "Preeti Kushwaha",
+      "mobile": "0977010081",
+      "email": "preetikushwaha0110@gmail.com",
+      "service": "Web Development",
+      "id": 6
+    }
+  ]
+}
