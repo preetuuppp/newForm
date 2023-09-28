@@ -14,3 +14,21 @@
 2- JSON server for server side
 3- Library used Chakra Ui
 4- React icons
+
+# Client Side
+![ss1](https://github.com/preetuuppp/newForm/assets/112836053/d239489b-e61c-46a2-b0f4-87ae29b28437)
+
+![ssdc](https://github.com/preetuuppp/newForm/assets/112836053/861698e8-52fc-438e-8fb3-274f3fc6bd1a)
+
+
+# Admin Side
+
+
+
+![ssad](https://github.com/preetuuppp/newForm/assets/112836053/f293f734-3cce-40d3-b4d3-e99c6d7cd8e1)
+
+
+
+
+
+
