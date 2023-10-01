@@ -52,6 +52,7 @@ export default function BackToTop() {
         w={"50px"}
         h={"50px"}
         style={{ borderRadius: "50%" }}
+        // border="1px solid red"
       >
         <Text fontSize={"20px"} color={"#167a92"}>
           {isVisible ? (

@@ -8,6 +8,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+
   height: 5rem;
 
   background-color: rgb(163, 163, 243);
@@ -34,6 +35,7 @@
 
 .user_details_div {
   width: 20%;
+
   text-align: center;
   align-items: center;
   display: flex;
@@ -155,14 +157,15 @@
   }
 
   .logo_div img {
-    width: 38%;
+    width: 80%;
 
     border-radius: 50%;
   }
 
   .nav_toggle_btn svg {
     color: white;
-    font-size: 1.5rem;
+    font-size: 2rem;
+    margin-right: 1rem;
   }
 
   .nav_links {
@@ -223,13 +226,14 @@
   }
 
   .logo_div img {
-    width: 20%;
+    width: 50%;
     border-radius: 50%;
   }
 
   .nav_toggle_btn svg {
     color: white;
-    font-size: 1.5rem;
+    font-size: 2rem;
+    margin-right: 1rem;
   }
 
   .nav_links {

@@ -28,7 +28,6 @@ const SalesForm = () => {
     }
   };
 
-  // --------Apply form validation----------
   const form_Validation = (values) => {
     const errors = {};
     errors.name = !values.name
@@ -69,9 +68,8 @@ const SalesForm = () => {
     const errors = form_Validation(details);
     setFormErrors(errors);
 
-    // Check if there are any validation errors
     const isErrors = Object.values(errors).some((item) => item !== "");
-    //---alert
+
     if (isErrors) {
       toast({
         position: "top",
@@ -111,7 +109,6 @@ const SalesForm = () => {
     }
   };
 
-  //--remove error msg automatically
   const getError = (field) => {
     return formErrors[field] ? (
       <p style={{ color: "red", margin: "0" }}>{formErrors[field]}</p>
@@ -130,7 +127,6 @@ const SalesForm = () => {
     }));
   };
 
-  // used for mobile length should be 10
   const handleMobileInput = (e) => {
     if (e.target.value.length >= 10) {
       e.preventDefault();
