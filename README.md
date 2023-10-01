@@ -1,6 +1,6 @@
 # Mini Sales Form
-# Frontend Deployed Link- https://6519309c90379f2f9b3033d1--moonlit-axolotl-2de506.netlify.app/
-# Backend Deployed Link- https://successful-pink-miniskirt.cyclic.cloud/userDetails
+# Frontend Deployed Link- https://crm-plateform.vercel.app/
+# Backend Deployed Link- https://backendform-q7wm.onrender.com/
 
 ### Features:-
 
