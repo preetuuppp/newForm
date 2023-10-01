@@ -20,7 +20,7 @@ const SalesForm = () => {
   const getDetails = async () => {
     try {
       const response = await axios.post(
-        "https://successful-pink-miniskirt.cyclic.cloud/userDetails",
+        "https://backendform-q7wm.onrender.com/userDetails",
         details
       );
     } catch (error) {

@@ -148,7 +148,7 @@ label {
     border-radius: 10px;
     margin-top: 0.5rem;
     font-size: 1rem;
-    padding: 1rem;
+    /* padding: 1rem; */
   }
 
   .submit_btn_div {

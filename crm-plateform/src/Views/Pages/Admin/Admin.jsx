@@ -14,7 +14,7 @@ const Admin = () => {
     setLoading(true);
     try {
       const response = await axios.get(
-        "https://successful-pink-miniskirt.cyclic.cloud/userDetails"
+        "https://backendform-q7wm.onrender.com/userDetails"
       );
       setallusers(response.data);
       setLoading(false);
@@ -39,7 +39,7 @@ const Admin = () => {
   const handleDeleteUser = async (userId) => {
     try {
       await axios.delete(
-        `https://successful-pink-miniskirt.cyclic.cloud/userDetails/${userId}`
+        `https://backendform-q7wm.onrender.com/userDetails/${userId}`
       );
 
       setallusers((prevUsers) =>
@@ -68,7 +68,7 @@ const Admin = () => {
   const handleSaveEdit = async (userId) => {
     try {
       await axios.put(
-        `https://successful-pink-miniskirt.cyclic.cloud/userDetails/${userId}`,
+        `https://backendform-q7wm.onrender.com/userDetails/${userId}`,
         editedUserData
       );
 
