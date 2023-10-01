@@ -1,5 +1,5 @@
 # Mini Sales Form
-# Frontend Deployed Link- https://65154b535d02d67e5ea160fc--super-bonbon-ce18fb.netlify.app/
+# Frontend Deployed Link- https://6519309c90379f2f9b3033d1--moonlit-axolotl-2de506.netlify.app/
 # Backend Deployed Link- https://successful-pink-miniskirt.cyclic.cloud/userDetails
 
 ### Features:-
